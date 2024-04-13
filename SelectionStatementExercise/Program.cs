@@ -1,6 +1,4 @@
-﻿using System.Net.WebSockets;
-
-var r = new Random();
+﻿var r = new Random();
 var favNumber = r.Next(1, 1000);
 int guess;
 
